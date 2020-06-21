@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\pembayarantagihanlistrik\pembayarantagihanlistrik\Debug\pembayarantagihanlistrik.MyForm.resources
+C:\Users\USER\source\repos\pembayarantagihanlistrik\pembayarantagihanlistrik\Debug\pembayarantagihanlistrik.MyForm1.resources
+C:\Users\USER\source\repos\pembayarantagihanlistrik\pembayarantagihanlistrik\Debug\pembayarantagihanlistrik.MyForm2.resources
+C:\Users\USER\source\repos\pembayarantagihanlistrik\pembayarantagihanlistrik\Debug\pembayarantagihanlistrik.vcxproj.GenerateResource.cache
+C:\Users\USER\source\repos\pembayarantagihanlistrik\pembayarantagihanlistrik\Debug\pembayarantagihanlistrik.vcxprojAssemblyReference.cache
